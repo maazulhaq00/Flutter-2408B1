@@ -20,7 +20,6 @@ class ContainerScreen extends StatelessWidget {
             // padding: EdgeInsets.fromLTRB(20, 30, 40, 50),
             // padding: EdgeInsets.symmetric(horizontal: 20, vertical: 70),
             margin: EdgeInsets.only(top: 50),
-
           ),
     );
   }

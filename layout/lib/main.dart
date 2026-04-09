@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:layout/screens/ColumnScreen.dart';
 import 'package:layout/screens/ContainerScreen.dart';
 import 'package:layout/screens/SearchScreen.dart';
 
@@ -14,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: ContainerScreen(),
+      home: ColumnScreen(),
     );
   }
 }
